@@ -1,0 +1,79 @@
+h1 {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  margin: 60px;
+  margin-bottom: -10px;
+  padding: 15px 0px 15px 0px;
+  font-family: "Roboto Slab", serif;
+  font-size: 100px;
+}
+
+h2 {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-family: "Square Peg", cursive;
+  letter-spacing: 10px;
+  font-size: 80px;
+  text-transform: lowercase;
+  text-shadow: 2px 2px 4px #011135;
+}
+
+h3 {
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+body {
+  background: linear-gradient(
+    0deg,
+    rgba(130, 220, 236, 1) 0%,
+    rgba(49, 58, 142, 1) 100%
+  );
+  min-height: 100vh;
+}
+
+input {
+  text-align: center;
+}
+
+.temperature {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-family: "Square Peg", cursive;
+  font-size: 30px;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+}
+.day {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-family: "Roboto Slab", serif;
+  font-size: 20px;
+  text-transform: lowercase;
+  letter-spacing: 4px;
+}
+
+.emoji {
+  display: block;
+  margin: 0 auto;
+  font-size: 50px;
+}
+#search {
+  display: block;
+  margin: 20px 20px 20px 80px;
+}
+
+.cols-7,
+.col {
+  color: #0c1241;
+  font-family: "Roboto Slab", serif;
+  font-size: 20px;
+}
+
+.col-2 {
+  margin: 0 auto;
+  font-size: 20px;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-family: "Roboto Slab", serif;
+}
